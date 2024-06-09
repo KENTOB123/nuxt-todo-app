@@ -45,5 +45,5 @@ const todos = todoStore.todos;
 <style scoped>
 .completed {
   text-decoration: line-through;
-}vujs
+}
 </style>
